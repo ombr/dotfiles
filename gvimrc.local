@@ -1,0 +1,2 @@
+" No menu on gvim
+set guioptions-=m

@@ -4,3 +4,11 @@ if [ ! -e $HOME/.vim/bundle/vundle ]; then
   git clone https://github.com/gmarik/vundle.git $HOME/.vim/bundle/vundle
 fi
 vim -u $HOME/.vimrc.bundles +BundleInstall +qa
+
+if [ ! -e $HOME/.oh-my-zsh ]; then
+  wget --no-check-certificate http://install.ohmyz.sh -O - | sh
+fi
+
+if [ ! -e $HOME/.opp.zsh ]; then
+  git clone https://github.com/hchbaw/opp.zsh.git $HOME/.opp.zsh
+fi

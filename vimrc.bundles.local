@@ -1,0 +1,3 @@
+Bundle 'altercation/vim-colors-solarized'
+Bundle 'sjl/gundo.vim.git'
+

@@ -1,0 +1,24 @@
+colorscheme default
+set background=dark
+call togglebg#map("<F5>")
+let g:solarized_termcolors=16
+colorscheme solarized
+
+set colorcolumn=85
+
+" w!! to save with a sudo :-D
+cmap w!! w !sudo tee % >/dev/null
+
+map <leader>p :CtrlP<CR>
+
+"exit insert mode with jj
+inoremap jj <ESC>
+inoremap <Nul> <C-x><C-o>
+
+"Activer la souris dans vim (dans gvim elle est déjà active)
+set mouse=a
+
+"http://stackoverflow.com/questions/7997380/selection-automatically-put-into-x11-clipboard-vim
+set clipboard+=autoselect
+set guioptions+=a
+
