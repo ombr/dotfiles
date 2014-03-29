@@ -21,4 +21,9 @@ set mouse=a
 "http://stackoverflow.com/questions/7997380/selection-automatically-put-into-x11-clipboard-vim
 set clipboard+=autoselect
 set guioptions+=a
+set guioptions-=e
+set guioptions-=r  "remove right-hand scroll bar
+set guioptions-=L  "remove left-hand scroll bar
 
+"http://robots.thoughtbot.com/running-specs-from-vim-sent-to-tmux-via-tslime
+let g:rspec_command = 'call Send_to_Tmux("rspec {spec}\n")'

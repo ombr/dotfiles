@@ -65,6 +65,7 @@ export VISUAL=vim
 export EDITOR=$VISUAL
 
 # load rbenv if available
+export PATH="$HOME/.rbenv/bin:$PATH"
 if which rbenv &>/dev/null ; then
   eval "$(rbenv init - --no-rehash)"
 fi
