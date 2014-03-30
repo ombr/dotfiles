@@ -13,6 +13,8 @@ set $mod Mod4
 
 # font for window titles. ISO 10646 = Unicode
 font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+#font pango:DejaVu Sans Mono, Terminus Bold Semi-Condensed 11
+
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -155,3 +157,9 @@ exec --no-startup-id "gnome-settings-daemon"
 #exec --no-startup-id "glipper"
 exec "nitrogen --restore"
 exec "xfce4-power-manager"
+
+# class                 border  backgr. text    indicator
+client.focused          #268bd2 #285577 #ffffff #268bd2
+client.focused_inactive #333333 #5f676a #ffffff #484e50
+client.unfocused        #333333 #222222 #888888 #292d2e
+client.urgent           #2f343a #900000 #ffffff #900000
