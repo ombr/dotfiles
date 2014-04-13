@@ -29,3 +29,13 @@ set guioptions-=L  "remove left-hand scroll bar
 let g:rspec_command = 'call Send_to_Tmux("rspec {spec}\n")'
 
 let g:syntastic_ruby_checkers = ['mri', 'rubocop']
+
+"let g:EasyMotion_do_mapping = 0 " Disable default mappings
+nmap <leader>g <Plug>(easymotion-s)
+" or
+"nmap s <Plug>(easymotion-s2)
+
+map <Leader>h <Plug>(easymotion-linebackward)
+map <Leader>j <Plug>(easymotion-j)
+map <Leader>k <Plug>(easymotion-k)
+map <Leader>l <Plug>(easymotion-lineforward)

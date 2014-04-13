@@ -152,7 +152,6 @@ for_window [class="urxvt"] border 1pixel
 exec --no-startup-id urxvt
 #exec jupiter
 exec --no-startup-id "sudo nm-applet"
-exec --no-startup-id "gnome-sound-applet"
 exec --no-startup-id "gnome-settings-daemon"
 #exec --no-startup-id "glipper"
 exec "nitrogen --restore"
