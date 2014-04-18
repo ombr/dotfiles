@@ -15,7 +15,9 @@ alias n="nautilus --no-desktop ./"
 alias h="heroku"
 alias hc="heroku run rails c -r "
 alias msecure="ecryptfs-add-passphrase && mount -i Secure/"
-alias migrate='bundle exec rake db:migrate && bundle exec rake RAILS_ENV=test db:migrate'
+alias gup='git smart-pull'
+alias gm='git smart-merge'
+alias gl='git smart-log'
 
 alias v="gvim"
 export CDPATH="~:~/public_html/"
@@ -24,3 +26,5 @@ export KEYTIMEOUT=1
 source $HOME/.opp.zsh/opp.zsh
 source $HOME/.opp.zsh/opp/*
 RPS1='$(vi_mode_prompt_info)${return_code}'
+alias sshs="ssh-add -D && ssh-add "
+export PATH="./bin/:$path"
