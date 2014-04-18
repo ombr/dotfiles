@@ -27,4 +27,4 @@ source $HOME/.opp.zsh/opp.zsh
 source $HOME/.opp.zsh/opp/*
 RPS1='$(vi_mode_prompt_info)${return_code}'
 alias sshs="ssh-add -D && ssh-add "
-export PATH="./bin/:$path"
+export PATH="./bin:$PATH"
