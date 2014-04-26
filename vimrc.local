@@ -30,7 +30,7 @@ let g:rspec_command = 'call Send_to_Tmux("rspec {spec}\n")'
 
 let g:syntastic_ruby_checkers = ['mri', 'rubocop']
 
-"let g:EasyMotion_do_mapping = 0 " Disable default mappings
+let g:EasyMotion_do_mapping = 0 " Disable default mappings
 nmap <leader>g <Plug>(easymotion-s)
 " or
 "nmap s <Plug>(easymotion-s2)
@@ -41,3 +41,5 @@ map <Leader>k <Plug>(easymotion-k)
 map <Leader>l <Plug>(easymotion-lineforward)
 
 vmap <Enter> <Plug>(EasyAlign)
+
+imap <C-Tab> <C-P>
