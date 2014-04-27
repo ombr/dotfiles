@@ -61,9 +61,11 @@ urxvt.scrollColor: #93a1a1
 urxvt.scrollBar_floating: false
 urxvt.scrollstyle: plain
 
-!urxvt*perl-ext-common:  default,matcher
-!urxvt*urlLauncher:      /usr/bin/firefox
-!urxvt*matcher*button:   1
+urxvt.perl-ext-common:  default,matcher,clipboard
+urxvt.keysym.M-c:   perl:clipboard:copy
+urxvt.keysym.M-v:   perl:clipboard:paste
+urxvt.urlLauncher: sensible-browser
+urxvt.matcher*button:   2
 Xft.dpi:        96
 Xft.antialias:  true
 Xft.rgba:       rgb

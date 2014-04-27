@@ -8,8 +8,17 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME='kphoen'
 ZSH_THEME='dpoggi'
 MODE_INDICATOR="%{$fg_bold[yellow]%} [% NORMAL]%  %{$reset_color%}"
-plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found)
+plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found tmux)
 source $ZSH/oh-my-zsh.sh
+# Custom theme :-D
+
+export ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%} "
+export ZSH_THEME_GIT_PROMPT_CLEAN=" %{$fg[green]%}○%{$reset_color%}"
+export ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}⚡%{$reset_color%}"
+export ZSH_THEME_GIT_PROMPT_SUFFIX="%{$fg[yellow]%}%{$reset_color%}"
+
+export DISABLE_AUTO_TITLE=true
+unsetopt correct_all
 
 alias n="nautilus --no-desktop ./"
 alias h="heroku"
@@ -26,7 +35,7 @@ export KEYTIMEOUT=1
 source $HOME/.opp.zsh/opp.zsh
 source $HOME/.opp.zsh/opp/*
 RPS1='$(vi_mode_prompt_info)${return_code}'
+
 alias sshs="ssh-add -D && ssh-add "
+
 export PATH="./bin:$PATH"
-export DISABLE_AUTO_TITLE=true
-unsetopt correct_all

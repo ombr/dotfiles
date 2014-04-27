@@ -12,3 +12,7 @@ fi
 if [ ! -e $HOME/.opp.zsh ]; then
   git clone https://github.com/hchbaw/opp.zsh.git $HOME/.opp.zsh
 fi
+
+if [ ! -e /usr/lib/urxvt/perl/clipboard ]; then
+  sudo bash -c "curl https://raw.githubusercontent.com/muennich/urxvt-perls/master/clipboard > /usr/lib/urxvt/perl/clipboard"
+fi
