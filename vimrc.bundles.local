@@ -5,8 +5,10 @@ Bundle 'vim-scripts/YankRing.vim'
 Bundle 'bling/vim-airline'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'junegunn/vim-easy-align'
+Bundle 'christoomey/vim-tmux-navigator'
 
 " Snipmate :
 Bundle "MarcWeber/vim-addon-mw-utils"
 Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
+Bundle "honza/vim-snippets"
