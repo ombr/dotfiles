@@ -8,6 +8,7 @@ set colorcolumn=85
 
 " w!! to save with a sudo :-D
 cmap w!! w !sudo tee % >/dev/null
+nmap t :tabnew 
 
 map <leader>p :CtrlP<CR>
 
