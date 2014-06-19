@@ -6,6 +6,7 @@ Bundle 'bling/vim-airline'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'junegunn/vim-easy-align'
 Bundle 'christoomey/vim-tmux-navigator'
+Bundle 'vim-scripts/SearchComplete'
 
 " Snipmate :
 Bundle "MarcWeber/vim-addon-mw-utils"

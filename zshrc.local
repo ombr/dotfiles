@@ -8,6 +8,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME='kphoen'
 ZSH_THEME='dpoggi'
 MODE_INDICATOR="%{$fg_bold[yellow]%} [% NORMAL]%  %{$reset_color%}"
+COMPLETION_WAITING_DOTS="true"
 plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found tmux)
 source $ZSH/oh-my-zsh.sh
 # Custom theme :-D

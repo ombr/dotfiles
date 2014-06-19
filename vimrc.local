@@ -4,6 +4,10 @@ call togglebg#map("<F5>")
 let g:solarized_termcolors=16
 colorscheme solarized
 
+" search :-D
+set ignorecase
+set smartcase
+
 set colorcolumn=85
 
 " w!! to save with a sudo :-D
