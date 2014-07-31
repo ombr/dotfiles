@@ -1,52 +1,70 @@
 ! Solarized color scheme for the X Window System
+!
+! http://ethanschoonover.com/solarized
 
-urxvt.background: #002b36
-urxvt.foreground: #839496
-urxvt.fading: 10
-urxvt.fadeColor: #002b36
-urxvt.cursorColor: #93a1a1
-urxvt.pointerColorBackground:  #586e75
-urxvt.pointerColorForeground:  #93a1a1
 
-! black dark/light
-urxvt.color0: #073642
-urxvt.color8: #002b36
+! Common
+#define S_yellow        #b58900
+#define S_orange        #cb4b16
+#define S_red           #dc322f
+#define S_magenta       #d33682
+#define S_violet        #6c71c4
+#define S_blue          #268bd2
+#define S_cyan          #2aa198
+#define S_green         #859900
 
-! red dark/light
-urxvt.color1: #dc322f
-!urxvt.color9: #dc322f
-urxvt.color9: #cb4b16
+! Dark
 
-! green dark/light
-urxvt.color2: #859900
-urxvt.color10: #859900
-!urxvt.color10: #586e75
+! #define S_base03        #002b36
+! #define S_base02        #073642
+! #define S_base01        #586e75
+! #define S_base00        #657b83
+! #define S_base0         #839496
+! #define S_base1         #93a1a1
+! #define S_base2         #eee8d5
+! #define S_base3         #fdf6e3
 
-! yellow dark/light
-urxvt.color3: #b58900
-urxvt.color11: #b58900
-!urxvt.color11: #657b83
+! Light
 
-! blue dark/light
-urxvt.color4: #268bd2
-!urxvt.color12: #268bd2
-urxvt.color12: #839496
+#define S_base03        #fdf6e3
+#define S_base02        #eee8d5
+#define S_base01        #93a1a1
+#define S_base00        #839496
+#define S_base0         #657b83
+#define S_base1         #586e75
+#define S_base2         #073642
+#define S_base3         #002b36
 
-! magenta dark/light
-urxvt.color5: #d33682
-!urxvt.color13: #d33682
-urxvt.color13: #6c71c4
 
-! cyan dark/light
-urxvt.color6: #2aa198
-!urxvt.color14: #2aa198
-urxvt.color14: #93a1a1
+! To only apply colors to your terminal, for example, prefix
+! the color assignment statement with its name. Example:
+!
+! URxvt*background:            S_base03
 
-! white dark/light
-urxvt.color7: #eee8d5
-!urxvt.color15: #eee8d5
-urxvt.color15: #fdf6e3
+*background:              S_base03
+*foreground:              S_base0
+*fading:                  40
+*fadeColor:               S_base03
+*cursorColor:             S_base1
+*pointerColorBackground:  S_base01
+*pointerColorForeground:  S_base1
 
+*color0:                  S_base02
+*color1:                  S_red
+*color2:                  S_green
+*color3:                  S_yellow
+*color4:                  S_blue
+*color5:                  S_magenta
+*color6:                  S_cyan
+*color7:                  S_base2
+*color9:                  S_orange
+*color8:                  S_base03
+*color10:                 S_base01
+*color11:                 S_base00
+*color12:                 S_base0
+*color13:                 S_violet
+*color14:                 S_base1
+*color15:                 S_base3
 
 !urxvt*font:  9x15
 urxvt*font: xft:Ubuntu Mono:regular
@@ -55,15 +73,23 @@ urxvt*boldFont: xft:Ubuntu Mono:bold
 urxvt*italicFont: xft:Ubuntu Mono:italic
 urxvt*boldItalicFont: xft:Ubuntu Mono:bold italic
 
-urxvt.scrollBar: true
+urxvt.scrollBar: false
 urxvt.scrollBar_right: true
 urxvt.scrollColor: #93a1a1
 urxvt.scrollBar_floating: false
 urxvt.scrollstyle: plain
 
-urxvt.perl-ext-common:  default,matcher,clipboard
+urxvt.perl-lib: /home/ombr/.urxvt-perls
+urxvt.perl-ext-common:  default,matcher,clipboard,keyboard-select
+URxvt.clipboard.copycmd:  xsel --input  --clipboard
+URxvt.clipboard.pastecmd: xsel --output --clipboard
+urxvt.keysym.Control-Shift-C: perl:clipboard:copy
+urxvt.keysym.Control-Shift-V: perl:clipboard:paste
 urxvt.keysym.M-c:   perl:clipboard:copy
 urxvt.keysym.M-v:   perl:clipboard:paste
+urxvt.keysym.M-Escape: perl:keyboard-select:activate
+urxvt.keysym.M-s: perl:keyboard-select:search
+
 urxvt.urlLauncher: sensible-browser
 urxvt.matcher*button:   2
 Xft.dpi:        96
@@ -77,6 +103,7 @@ urxvt.scrollWithBuffer:     true
 urxvt.scrollTtyKeypress:    true
 urxvt.saveLines: 100000
 
+URxvt*iso14755: False
 !urxvt*transparent: true
 !urxvt*shading: 190 # 0 to 99 darkens, 101 to 200 lightens
 

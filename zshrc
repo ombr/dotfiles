@@ -64,6 +64,8 @@ bindkey -s "^T" "^[Isudo ^[A" # "t" for "toughguy"
 export VISUAL=vim
 export EDITOR=$VISUAL
 
+export BROWSER=google-chrome
+
 # load rbenv if available
 export PATH="$HOME/.rbenv/bin:$PATH"
 if which rbenv &>/dev/null ; then
@@ -81,3 +83,4 @@ export PATH=".git/safe/../../bin:$PATH"
 
 # Local config
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+export PATH="$HOME/.bin:$PATH"

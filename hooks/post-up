@@ -3,6 +3,7 @@
 if [ ! -e $HOME/.vim/bundle/vundle ]; then
   git clone https://github.com/gmarik/vundle.git $HOME/.vim/bundle/vundle
 fi
+
 vim -u $HOME/.vimrc.bundles +BundleInstall +qa
 
 if [ ! -e $HOME/.oh-my-zsh ]; then
@@ -13,6 +14,8 @@ if [ ! -e $HOME/.opp.zsh ]; then
   git clone https://github.com/hchbaw/opp.zsh.git $HOME/.opp.zsh
 fi
 
-if [ ! -e /usr/lib/urxvt/perl/clipboard ]; then
-  sudo bash -c "curl https://raw.githubusercontent.com/muennich/urxvt-perls/master/clipboard > /usr/lib/urxvt/perl/clipboard"
+if [ ! -e $HOME/.urxvt-perls ]; then
+  git clone https://github.com/muennich/urxvt-perls $HOME/.urxvt-perls
 fi
+
+echo sudo apt-get install xsel i3wm
