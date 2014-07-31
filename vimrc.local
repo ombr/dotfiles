@@ -31,9 +31,13 @@ set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=L  "remove left-hand scroll bar
 
 "http://robots.thoughtbot.com/running-specs-from-vim-sent-to-tmux-via-tslime
-let g:rspec_command = 'call Send_to_Tmux("rspec {spec}\n")'
+let g:rspec_command = 'call Send_to_Tmux("spring rspec {spec}\n")'
 
 let g:syntastic_ruby_checkers = ['mri', 'rubocop']
+
+vmap <C-c><C-c> <Plug>SendSelectionToTmux
+nmap <C-c><C-c> <Plug>NormalModeSendToTmux
+nmap <C-c>r <Plug>SetTmuxVars
 
 " Easymotion
 let g:EasyMotion_do_mapping = 0 " Disable default mappings
