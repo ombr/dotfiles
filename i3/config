@@ -21,7 +21,7 @@ floating_modifier $mod
 
 # start a terminal
 # bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec --no-startup-id "urxvt -e tmux"
+bindsym $mod+Return exec --no-startup-id "urxvt"
 bindsym $mod+n exec "nautilus --no-desktop"
 
 # kill focused window
@@ -149,7 +149,7 @@ bar {
 
 new_window 1pixel
 for_window [class="urxvt"] border 1pixel
-exec --no-startup-id "urxvt -e tmux"
+exec --no-startup-id "urxvt"
 #exec jupiter
 exec --no-startup-id "sudo nm-applet"
 exec --no-startup-id "gnome-settings-daemon"

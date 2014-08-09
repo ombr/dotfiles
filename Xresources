@@ -80,15 +80,13 @@ urxvt.scrollBar_floating: false
 urxvt.scrollstyle: plain
 
 urxvt.perl-lib: /home/ombr/.urxvt-perls
-urxvt.perl-ext-common:  default,matcher,clipboard,keyboard-select
+urxvt.perl-ext-common:  default,matcher,clipboard
 URxvt.clipboard.copycmd:  xsel --input  --clipboard
 URxvt.clipboard.pastecmd: xsel --output --clipboard
 urxvt.keysym.Control-Shift-C: perl:clipboard:copy
 urxvt.keysym.Control-Shift-V: perl:clipboard:paste
 urxvt.keysym.M-c:   perl:clipboard:copy
 urxvt.keysym.M-v:   perl:clipboard:paste
-urxvt.keysym.M-Escape: perl:keyboard-select:activate
-urxvt.keysym.M-s: perl:keyboard-select:search
 
 urxvt.urlLauncher: sensible-browser
 urxvt.matcher*button:   2
@@ -101,7 +99,7 @@ Xft.hintstyle:  hintslight
 urxvt.scrollTtyOutput:      false
 urxvt.scrollWithBuffer:     true
 urxvt.scrollTtyKeypress:    true
-urxvt.saveLines: 100000
+urxvt.saveLines: 0
 
 URxvt*iso14755: False
 !urxvt*transparent: true
