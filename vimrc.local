@@ -1,5 +1,5 @@
 colorscheme default
-set background=light
+set background=dark
 call togglebg#map("<F5>")
 let g:solarized_termcolors=16
 colorscheme solarized
