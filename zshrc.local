@@ -9,7 +9,7 @@ ZSH_THEME='kphoen'
 ZSH_THEME='dpoggi'
 MODE_INDICATOR="%{$fg_bold[yellow]%} [% NORMAL]%  %{$reset_color%}"
 COMPLETION_WAITING_DOTS="true"
-plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found tmux extract)
+plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found tmux extract cp dirhistory heroku github z)
 source $ZSH/oh-my-zsh.sh
 # Custom theme :-D
 
@@ -78,6 +78,13 @@ if [ "$(tty)" != '/dev/console' ] ;then
 fi
 #END SSH Agent Startup Modified from: http://mah.everybody.org/docs/ssh#run-ssh-agent
 
+# For colors.
+alias tmux='tmux -2'
+# Base16 Shell
+BASE16_SCHEME="monokai"
+BASE16_SHELL="$HOME/.config/base16-shell/base16-$BASE16_SCHEME.dark.sh"
+[[ -s $BASE16_SHELL ]] && . $BASE16_SHELL
+
 if [[ -z "$TMUX" ]] ;then
     ID="`tmux ls | grep -vm1 attached | cut -d: -f1`" # get the id of a deattached session
     if [[ -z "$ID" ]] ;then # if not available create a new one
@@ -87,7 +94,3 @@ if [[ -z "$TMUX" ]] ;then
     fi
 fi
 
-# Base16 Shell
-BASE16_SCHEME="monokai"
-BASE16_SHELL="$HOME/.config/base16-shell/base16-$BASE16_SCHEME.dark.sh"
-[[ -s $BASE16_SHELL ]] && . $BASE16_SHELL
