@@ -4,6 +4,8 @@ urxvt*imFont: xft:Ubuntu Mono:regular
 urxvt*boldFont: xft:Ubuntu Mono:bold
 urxvt*italicFont: xft:Ubuntu Mono:italic
 urxvt*boldItalicFont: xft:Ubuntu Mono:bold italic
+urxvt*lineSpace: 2
+urxvt*cursorBlink: true
 
 urxvt.scrollBar: false
 urxvt.scrollBar_right: true
