@@ -17,12 +17,13 @@ set cursorline
 set scrolloff=3
 " w!! to save with a sudo :-D
 cmap w!! w !sudo tee % >/dev/null
-nmap t :tabnew 
+" nmap t :tabnew  Useless...
 
 map <leader>p :CtrlP<CR>
 
 "exit insert mode with jj
 inoremap jj <ESC>
+
 inoremap <Nul> <C-x><C-o>
 
 "Activer la souris dans vim (dans gvim elle est déjà active)
@@ -57,7 +58,7 @@ map <Leader>l <Plug>(easymotion-lineforward)
 
 vmap <Enter> <Plug>(EasyAlign)
 
-imap <Tab> <C-P>
+" imap <Tab> <C-P>
 
 imap <S-Tab> <Plug>snipMateNextOrTrigger
 imap <C-S-Tab> <Plug>snipMateBack
