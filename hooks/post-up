@@ -22,4 +22,8 @@ if [ ! -e $HOME/.config/base16-shell ]; then
   git clone git@github.com:chriskempson/base16-shell.git $HOME/.config/base16-shell
 fi
 
-echo sudo apt-get install xsel i3wm
+if [ ! -e $HOME/.i3-extra ]; then
+  git clone https://github.com/ashinkarov/i3-extras.git $HOME/.i3-extra
+fi
+
+echo sudo apt-get install xsel i3wm scrot

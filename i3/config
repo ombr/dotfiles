@@ -164,4 +164,4 @@ client.unfocused        #333333 #222222 #888888 #292d2e
 client.urgent           #2f343a #900000 #ffffff #900000
 
 bindsym $mod+c move workspace to output left
-bindsym $mod+x exec "~/.i3/i3lock-wrapper"
+bindsym $mod+x exec "~/.i3-extra/i3lock-wrapper"
