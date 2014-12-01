@@ -1,0 +1,40 @@
+#!/bin/bash
+sudo apt-get update
+sudo apt-get install vim-gtk \
+  exuberant-ctags \
+  git \
+  i3 \
+  aptitude \
+  redis-server \
+  tmux \
+  sqlite \
+  imagemagick \
+  curl \
+  zsh \
+  nodejs \
+  npm \
+  silversearcher-ag \
+  libpcre3-dev \
+  zlib1g-dev \
+  liblzma-dev \
+  libsqlite3-dev \
+  libxslt1-dev \
+  libcurl4-openssl-dev \
+  libksba8 libksba-dev \
+  libqtwebkit-dev \
+  libreadline-dev \
+  libpq-dev \
+  htop \
+  libssl-dev
+
+sudo aptitude build-dep -y ruby-1.9.3
+curl -s https://toolbelt.heroku.com/install-ubuntu.sh | sh
+git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
+git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+rbenv install 2.1.5
+rbenv global 2.1.5
+gem install bundler gh foreman rubocop rails
+
+# sudo apt-get upgrade
+
+curl https://raw.githubusercontent.com/creationix/nvm/v0.20.0/install.sh | bash
