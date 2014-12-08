@@ -1,4 +1,6 @@
 #!/bin/bash
-xrandr --output LVDS2 --auto
+xrandr --output DP-0 --off
 sleep 1
-xrandr --output DP-1-1 --auto --left-of LVDS2
+xrandr --output LVDS1 --auto
+sleep 2
+xrandr --output DP-0 --auto --right-of LVDS1

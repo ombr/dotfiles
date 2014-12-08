@@ -94,3 +94,4 @@ if [[ -z "$TMUX" ]] ;then
     fi
 fi
 
+source ~/.nvm/nvm.sh

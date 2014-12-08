@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo add-apt-repository ppa:fingerprint/fingerprint-gui
 sudo apt-get update
 sudo apt-get install vim-gtk \
   exuberant-ctags \
@@ -25,7 +26,10 @@ sudo apt-get install vim-gtk \
   libreadline-dev \
   libpq-dev \
   htop \
-  libssl-dev
+  libssl-dev \
+  libbsapi \
+  policykit-1-fingerprint-gui \
+  fingerprint-gui
 
 sudo aptitude build-dep -y ruby-1.9.3
 curl -s https://toolbelt.heroku.com/install-ubuntu.sh | sh
@@ -38,3 +42,7 @@ gem install bundler gh foreman rubocop rails
 # sudo apt-get upgrade
 
 curl https://raw.githubusercontent.com/creationix/nvm/v0.20.0/install.sh | bash
+
+sudo apt-get install virtualbox \
+  gksu \
+  unar

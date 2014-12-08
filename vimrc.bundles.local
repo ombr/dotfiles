@@ -8,6 +8,7 @@ Bundle 'christoomey/vim-tmux-navigator'
 Bundle 'vim-scripts/SearchComplete'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'slim-template/vim-slim.git'
+Bundle 'tpope/vim-abolish'
 
 " Snipmate :
 Bundle "MarcWeber/vim-addon-mw-utils"
