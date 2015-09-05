@@ -73,7 +73,6 @@ bind C-v run "xsel -ob | tmux load-buffer - ; tmux paste-buffer "
 # move tmux copy buffer into x clipboard
 bind C-c run "( tmux show-buffer | xsel -bi ) && tmux display-message \"ok!\""
 
-
 set -g mode-mouse on
 set -g mouse-select-pane on
 set -g mouse-select-window on
