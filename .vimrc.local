@@ -1,10 +1,10 @@
 "colorscheme default
-set background=dark
+"set background=dark
 "call togglebg#map("<F5>")
 "let g:solarized_termcolors=16
 "colorscheme solarized
-let base16colorspace=256
-colorscheme base16-monokai
+"let base16colorspace=256
+"colorscheme base16-monokai
 "
 
 " search :-D

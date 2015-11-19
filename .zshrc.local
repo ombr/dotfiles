@@ -21,14 +21,15 @@ export ZSH_THEME_GIT_PROMPT_SUFFIX="%{$fg[yellow]%}%{$reset_color%}"
 export DISABLE_AUTO_TITLE=true
 unsetopt correct_all
 
-alias n="nautilus --no-desktop ./"
+# alias n="nautilus --no-desktop ./"
 alias h="heroku"
 alias hc="heroku run rails c -r "
 alias gup='git smart-pull'
 alias gm='git smart-merge'
 alias gl='git smart-log'
+alias dbtest='RAILS_ENV=test rake db:drop db:create db:migrate'
 
-export CDPATH="~:~/src/"
+export CDPATH="~:~/public_html/"
 
 export KEYTIMEOUT=1
 RPS1='$(vi_mode_prompt_info)${return_code}'
@@ -89,3 +90,5 @@ if [[ -z "$TMUX" ]] ;then
         tmux attach-session -t "$ID" # if available attach to it
     fi
 fi
+nvm use v4.2.2
+export ANDROID_HOME=/opt/boxen/homebrew/opt/android-sdk

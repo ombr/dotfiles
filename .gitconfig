@@ -15,9 +15,15 @@
   st = status
   up = !git fetch origin && git rebase origin/master
 [core]
-  excludesfile = ~/.gitignore
+  excludesfile = /opt/boxen/config/git/gitignore
   autocrlf = input
 [include]
   path = .gitconfig.local
 [commit]
   template = ~/.gitmessage
+
+[hub]
+protocol = https
+
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential

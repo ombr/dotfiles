@@ -92,3 +92,9 @@ bind M \
   set -g mouse-select-pane off \;\
   set -g mouse-select-window off \;\
   display 'Mouse: OFF'
+
+
+# Keep current_path on split
+bind '"' split-window -c "#{pane_current_path}"
+bind % split-window -h -c "#{pane_current_path}"
+bind c new-window -c "#{pane_current_path}"

@@ -20,6 +20,7 @@ Bundle 'tpope/vim-endwise'
 Bundle 'tpope/vim-fugitive'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-surround'
+Bundle 'tpope/vim-rbenv'
 Bundle 'vim-scripts/matchit.zip'
 Bundle 'vim-scripts/ctags.vim'
 Bundle 'vim-scripts/tComment'
@@ -35,12 +36,16 @@ Bundle 'vim-scripts/SearchComplete'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'slim-template/vim-slim.git'
 Bundle 'tpope/vim-abolish'
+Bundle 'digitaltoad/vim-jade'
+Bundle 'heartsentwined/vim-emblem'
 
 " Snipmate :
 Bundle "MarcWeber/vim-addon-mw-utils"
 Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
 Bundle "honza/vim-snippets"
+
+Bundle 'wakatime/vim-wakatime'
 
 Plugin 'chriskempson/base16-vim'
 
