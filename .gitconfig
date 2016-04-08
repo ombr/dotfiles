@@ -21,6 +21,7 @@
   path = .gitconfig.local
 [commit]
   template = ~/.gitmessage
+	gpgsign = true
 
 [hub]
 protocol = https
