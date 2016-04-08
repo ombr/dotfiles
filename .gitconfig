@@ -27,3 +27,7 @@ protocol = https
 
 [credential]
 helper = /opt/boxen/bin/boxen-git-credential
+[user]
+	signingkey = 7B95B8A0
+	name = Luc Boissaye
+	email = luc@boissaye.fr

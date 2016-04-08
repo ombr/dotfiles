@@ -90,5 +90,9 @@ if [[ -z "$TMUX" ]] ;then
         tmux attach-session -t "$ID" # if available attach to it
     fi
 fi
-nvm use v4.2.2
+
+export NVM_DIR="$HOME/.nvm"
+. "$(brew --prefix nvm)/nvm.sh"
+nvm use v5.10.0
 export ANDROID_HOME=/opt/boxen/homebrew/opt/android-sdk
+eval `docker-machine env default`
