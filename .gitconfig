@@ -16,22 +16,22 @@
   st = status
   up = !git fetch origin && git rebase origin/master
 [core]
-  excludesfile = /opt/boxen/config/git/gitignore
-  autocrlf = input
+	excludesfile = /opt/boxen/config/git/gitignore
+	autocrlf = input
 [include]
-  path = .gitconfig.local
+	path = .gitconfig.local
 [commit]
-  template = ~/.gitmessage
+ 	template = ~/.gitmessage
 	gpgsign = true
 
 [hub]
-protocol = https
+	protocol = https
 
 [credential]
-helper = /opt/boxen/bin/boxen-git-credential
+	helper = /opt/boxen/bin/boxen-git-credential
 [user]
 	email = luc@boissaye.fr
 	name = Luc Boissaye
 	signingkey = 7B95B8A0
 [apply]
-whitespace = strip
+	whitespace = strip
