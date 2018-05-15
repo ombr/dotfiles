@@ -1,7 +1,0 @@
-[alias]
-  ai = add -i
-[user]
-  email = luc@boissaye.fr
-  name = Luc
-[apply]
-  whitespace = strip
