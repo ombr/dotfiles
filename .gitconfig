@@ -4,6 +4,7 @@
   ui = auto
 [alias]
   aa = add --all
+  ai = add -i
   ap = add --patch
   ca = commit --amend
   ci = commit -v
@@ -29,6 +30,8 @@ protocol = https
 [credential]
 helper = /opt/boxen/bin/boxen-git-credential
 [user]
-	signingkey = 7B95B8A0
-	name = Luc Boissaye
 	email = luc@boissaye.fr
+	name = Luc Boissaye
+	signingkey = 7B95B8A0
+[apply]
+whitespace = strip
