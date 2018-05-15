@@ -5,11 +5,10 @@ function chpwd() {
 }
 # Oh-MyZSH !!
 export ZSH=$HOME/.oh-my-zsh
-ZSH_THEME='kphoen'
+
 ZSH_THEME='dpoggi'
 MODE_INDICATOR="%{$fg_bold[yellow]%} [% NORMAL]%  %{$reset_color%}"
 COMPLETION_WAITING_DOTS="true"
-# plugins=(git git-extras github rails ruby gem common-aliases npm vi-mode command-not-found tmux extract cp dirhistory heroku z github)
 plugins=(git git-extras rails ruby gem common-aliases npm vi-mode command-not-found tmux extract cp dirhistory heroku z)
 source $ZSH/oh-my-zsh.sh
 # Custom theme :-D
@@ -19,9 +18,9 @@ export ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}⚡%{$reset_color%}"
 export ZSH_THEME_GIT_PROMPT_SUFFIX="%{$fg[yellow]%}%{$reset_color%}"
 
 export DISABLE_AUTO_TITLE=true
-unsetopt correct_all
+# unsetopt correct_all
 
-# alias n="nautilus --no-desktop ./"
+alias n="nautilus --no-desktop ./"
 alias h="heroku"
 alias hc="heroku run rails c -r "
 alias gup='git smart-pull'
@@ -29,12 +28,12 @@ alias gm='git smart-merge'
 alias gl='git smart-log'
 alias dbtest='RAILS_ENV=test rake db:drop db:create db:migrate'
 
+alias sshs="ssh-add -D && ssh-add "
+
 export CDPATH="~:~/public_html/"
 
 export KEYTIMEOUT=1
 RPS1='$(vi_mode_prompt_info)${return_code}'
-
-alias sshs="ssh-add -D && ssh-add "
 
 export PATH="./bin:$PATH"
 
@@ -58,41 +57,17 @@ start_agent() {
     echo "Failed to write ${SSH_ENV}"
   fi
 }
-# # Source SSH settings, if applicable
-# if [ "$(tty)" != '/dev/console' ] ;then
-#   if [ -f "${SSH_ENV}" ]; then
-#     . "${SSH_ENV}" >/dev/null
-#     if ! ssh-add -l | egrep '.ssh/id(entity|_dsa|_rsa)' >/dev/null ;then
-#       if ps -fp ${SSH_AGENT_PID} | grep ssh-agent$ >/dev/null ;then
-#         /usr/bin/ssh-add
-#       else
-#         start_agent
-#       fi
-#     fi
-#   else
-#     start_agent
-#   fi
+# if [[ -z "$TMUX" ]] ;then
+#    ID="`tmux ls | grep -vm1 attached | cut -d: -f1`" # get the id of a deattached session
+#     if [[ -z "$ID" ]] ;then # if not available create a new one
+#        tmux new-session
+#    else
+#        tmux attach-session -t "$ID" # if available attach to it
+#    fi
 # fi
-# #END SSH Agent Startup Modified from: http://mah.everybody.org/docs/ssh#run-ssh-agent
-#
-# # For colors.
-# alias tmux='tmux -2'
-# # Base16 Shell
-# BASE16_SCHEME="monokai"
-# BASE16_SHELL="$HOME/.config/base16-shell/base16-$BASE16_SCHEME.dark.sh"
-# [[ -s $BASE16_SHELL ]] && . $BASE16_SHELL
-#
-if [[ -z "$TMUX" ]] ;then
-    ID="`tmux ls | grep -vm1 attached | cut -d: -f1`" # get the id of a deattached session
-    if [[ -z "$ID" ]] ;then # if not available create a new one
-        tmux new-session
-    else
-        tmux attach-session -t "$ID" # if available attach to it
-    fi
-fi
 
 export NVM_DIR="$HOME/.nvm"
-. "$(brew --prefix nvm)/nvm.sh"
-nvm use v5.10.0
-export ANDROID_HOME=/opt/boxen/homebrew/opt/android-sdk
-eval `docker-machine env default`
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+export PATH="$HOME/.rbenv/bin:$PATH"
+~/.rbenv/bin/rbenv init
