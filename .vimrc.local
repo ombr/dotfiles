@@ -19,6 +19,7 @@ set scrolloff=3
 cmap w!! w !sudo tee % >/dev/null
 " nmap t :tabnew  Useless...
 
+
 map <leader>p :CtrlP<CR>
 
 "exit insert mode with jj
@@ -37,7 +38,7 @@ set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=L  "remove left-hand scroll bar
 
 "http://robots.thoughtbot.com/running-specs-from-vim-sent-to-tmux-via-tslime
-let g:rspec_command = 'call Send_to_Tmux("spring rspec {spec}\n")'
+let g:rspec_command = 'call Send_to_Tmux("bundle exec rspec {spec}\n")'
 
 let g:syntastic_ruby_checkers = ['mri', 'rubocop']
 

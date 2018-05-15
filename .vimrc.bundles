@@ -46,13 +46,14 @@ Bundle "garbas/vim-snipmate"
 Bundle "honza/vim-snippets"
 
 Bundle 'wakatime/vim-wakatime'
+Bundle 'leafgarland/typescript-vim'
 
 Plugin 'chriskempson/base16-vim'
-
-if filereadable(expand("~/.vimrc.bundles.local"))
-  source ~/.vimrc.bundles.local
-endif
 
 " Vundle Start
 call vundle#end()
 filetype plugin indent on
+
+
+
+

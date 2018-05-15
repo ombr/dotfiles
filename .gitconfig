@@ -6,32 +6,21 @@
   aa = add --all
   ai = add -i
   ap = add --patch
-  ca = commit --amend
   ci = commit -v
   co = checkout
-  create-branch = !sh -c 'git push origin HEAD:refs/heads/$1 && git fetch origin && git branch --track $1 origin/$1 && cd . && git checkout $1' -
-  delete-branch = !sh -c 'git push origin :refs/heads/$1 && git remote prune origin && git branch -D $1' -
-  merge-branch = !git checkout master && git merge @{-1}
+  ai = add -i
   pr = !hub pull-request
   st = status
-  up = !git fetch origin && git rebase origin/master
-[core]
-	excludesfile = /opt/boxen/config/git/gitignore
-	autocrlf = input
-[include]
-	path = .gitconfig.local
+[hub]
+  protocol = https
+[user]
+  # signingkey = 7B95B8A0
+  name = Luc Boissaye
+  email = luc@boissaye.fr
 [commit]
  	template = ~/.gitmessage
 	gpgsign = true
-
 [hub]
 	protocol = https
-
-[credential]
-	helper = /opt/boxen/bin/boxen-git-credential
-[user]
-	email = luc@boissaye.fr
-	name = Luc Boissaye
-	signingkey = 7B95B8A0
 [apply]
 	whitespace = strip
