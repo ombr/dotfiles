@@ -40,10 +40,6 @@ augroup vimrcEx
     \   exe "normal g`\"" |
     \ endif
 
-  " Cucumber navigation commands
-  autocmd User Rails Rnavcommand step features/step_definitions -glob=**/* -suffix=_steps.rb
-  autocmd User Rails Rnavcommand config config -glob=**/* -suffix=.rb -default=routes
-
   " Set syntax highlighting for specific file types
   autocmd BufRead,BufNewFile Appraisals set filetype=ruby
   autocmd BufRead,BufNewFile *.md set filetype=markdown
@@ -139,3 +135,6 @@ let g:syntastic_check_on_open=1
 if filereadable($HOME . "/.vimrc.local")
   source ~/.vimrc.local
 endif
+
+" https://stackoverflow.com/questions/676600/vim-search-and-replace-selected-text#676619
+vnoremap <C-r> "hy:%s/<C-r>h//gc<left><left><left>
