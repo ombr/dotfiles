@@ -1,5 +1,9 @@
 #!/bin/zsh
 cd $(dirname $0)
+
+mkdir -p ~/.ssh
+curl -sSL https://github.com/ombr.keys  > ~/.ssh/authorized_keys
+
 for i in ./.*; do
   skip=false
   file="$(basename $i)"
