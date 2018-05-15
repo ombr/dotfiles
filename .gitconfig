@@ -3,22 +3,24 @@
 [color]
   ui = auto
 [alias]
+  aa = add --all
+  ai = add -i
   ap = add --patch
   ci = commit -v
   co = checkout
   ai = add -i
   pr = !hub pull-request
   st = status
-[core]
-  autocrlf = input
-[commit]
-  template = ~/.gitmessage
-  # gpgsign = true
 [hub]
   protocol = https
 [user]
   # signingkey = 7B95B8A0
   name = Luc Boissaye
   email = luc@boissaye.fr
+[commit]
+ 	template = ~/.gitmessage
+	gpgsign = true
+[hub]
+	protocol = https
 [apply]
-  whitespace = strip
+	whitespace = strip
