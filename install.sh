@@ -12,7 +12,7 @@ for i in ./.*; do
   if $skip; then
     continue;
   fi;
-  # rm ~/$file
+  rm ~/$file
   echo ln -s ~/dotfiles/$file ~/$file
   ln -s ~/dotfiles/$file ~/$file
 done;
