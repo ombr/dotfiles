@@ -13,8 +13,8 @@ for i in ./.*; do
     continue;
   fi;
   rm ~/$file
-  echo ln -s $(dirname $0)/$file ~/$file
-  ln -s $(dirname $0)/$file ~/$file
+  echo ln -s $(pwd)/$file ~/$file
+  ln -s $(pwd)/$file ~/$file
 done;
 
 # mkdir -p ˜/.vim/bundle/
