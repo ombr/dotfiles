@@ -1,6 +1,4 @@
 #!/bin/zsh
-
-
 cd $(dirname $0)
 for i in ./.*; do
   skip=false
@@ -22,10 +20,12 @@ done;
 # mkdir -p ˜/.vim/bundle/
 # git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 # vim +PluginInstall +qall
-
+rm -rf ~/.oh-my-zsh
 git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 
+rm -rf ~/.rbenv
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
 
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+rm -rf ~/.nvm
+git clone https://github.com/creationix/nvm.git ~/.nvm
