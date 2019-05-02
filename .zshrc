@@ -85,6 +85,9 @@ RPS1='$(vi_mode_prompt_info)${return_code}'
 
 export DISABLE_AUTO_TITLE=true
 export PATH="./bin:$PATH"
+export ANDROID_HOME="$HOME/Android/Sdk"
+export JAVA_HOME="$HOME/jdk1.8.0_171"
+export PATH="$JAVA_HOME/bin:$PATH"
 
 #SSH Agent Startup Modified from: http://mah.everybody.org/docs/ssh#run-ssh-agent
 SSH_ENV="${HOME}/.ssh/environment"

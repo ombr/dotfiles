@@ -47,8 +47,10 @@ Bundle "honza/vim-snippets"
 
 Bundle 'wakatime/vim-wakatime'
 Bundle 'leafgarland/typescript-vim'
+Bundle 'hashivim/vim-terraform'
 
 Plugin 'chriskempson/base16-vim'
+Plugin 'altercation/vim-colors-solarized'
 
 " Vundle Start
 call vundle#end()
