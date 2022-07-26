@@ -18,9 +18,8 @@
   name = Luc Boissaye
   email = luc@boissaye.fr
 [commit]
- 	template = ~/.gitmessage
-	gpgsign = true
+  template = ~/.gitmessage
 [hub]
-	protocol = https
+  protocol = https
 [apply]
-	whitespace = strip
+  whitespace = strip

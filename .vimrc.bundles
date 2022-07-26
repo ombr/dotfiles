@@ -51,6 +51,8 @@ Bundle 'hashivim/vim-terraform'
 
 Plugin 'chriskempson/base16-vim'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'joukevandermaas/vim-ember-hbs'
+
 
 " Vundle Start
 call vundle#end()

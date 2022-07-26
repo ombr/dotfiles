@@ -77,6 +77,7 @@ alias kb='setxkbmap -rules evdev -model evdev -layout us -variant altgr-intl'
 alias dcu='dc up'
 alias gup='git smart-pull'
 alias gl='git smart-log'
+alias vim="~/Downloads/nvim.appimage"
 
 export CDPATH="~:~/public_html/"
 
