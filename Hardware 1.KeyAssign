@@ -1,0 +1,3964 @@
+{
+	"pagedata": {
+		"hibernate": true,
+		"winLock": false,
+		"directionSwitch": false,
+		"hibernateTimeArr": [
+			1,
+			3,
+			5,
+			10
+		],
+		"reportRateIndex": 0,
+		"hibernateTime": 3,
+		"defaultName": "",
+		"recordAssignBtnIndex": 57,
+		"assignText": "設定按鍵:Y",
+		"assignedKeyboardKeys": [
+			[
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K190"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "Fn2",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				}
+			],
+			[
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K152"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "Caps",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				}
+			],
+			[
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K149"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "DEL",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K186"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "←",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K187"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "↓",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K177"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "↑",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K188"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "→",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						"K182"
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": true,
+					"openLongTimePress": true,
+					"value": "RAlt",
+					"macroOptionNumber": 1,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				}
+			],
+			[
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				},
+				{
+					"keyAssignType": [
+						"",
+						"",
+						""
+					],
+					"LongTimePressValue": "",
+					"InstantPressValue": "",
+					"LongTime_Instant_Status": false,
+					"openLongTimePress": false,
+					"value": "",
+					"macroOptionNumber": 65536,
+					"macroCode": 0,
+					"projectName": "",
+					"projectCode": 0
+				}
+			]
+		],
+		"assignedFnKeyboardKeys": [],
+		"fnModeMartrix": [
+			false,
+			true,
+			false
+		],
+		"fnModeindex": 2,
+		"fiveDefaultLedCode": [
+			{
+				"projectCode": 0,
+				"projectName": ""
+			},
+			{
+				"projectCode": 0,
+				"projectName": ""
+			},
+			{
+				"projectCode": 0,
+				"projectName": ""
+			},
+			{
+				"projectCode": 0,
+				"projectName": ""
+			},
+			{
+				"projectCode": 0,
+				"projectName": ""
+			}
+		],
+		"fiveRecordIndex": 0,
+		"maxKayCapNumber": 61,
+		"projectName": "Hardware 1"
+	}
+}
